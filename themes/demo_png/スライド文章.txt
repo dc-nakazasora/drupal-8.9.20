@@ -1,0 +1,46 @@
+スライド1
+
+Slide 1 Title
+UNNAIにようこそ
+
+Slide 1 Description
+Drupalグッズ専門店UNNAIは縄文時代から続く、富士山のどこかにあるらしいDrupalグッズ専門店です。
+国内外から集めたDrupalに関するあらゆるグッズを取り扱っております。
+
+
+スライド2
+
+Slide 2 Title
+DrupalグッズならUNNAI
+
+Slide 2 Description
+Drupalグッズ専門店だからできるこだわりの品揃え。UNNAIでしか入手できない貴重なDrupalグッズの
+数々を製品紹介ページでご覧いただけます。人気のある商品もございますので早めにお越しください。
+
+
+スライド3
+Slide 3 Title
+スタッフ募集中です！
+
+Slide 3 Description
+UNNAIでは業務拡大に伴い、スタッフを募集しています。Drupalに興味のある方、Drupalスキルを存分に
+発揮したい方からのエントリーをお待ちしています。詳細は採用情報をご覧ください。
+
+
+スライド4
+
+Slide 4 Title
+新製品Drupalパピルス
+
+Slide 4 Description
+「フシギハッケン！」と言って近づいてきたエジプトのお土産屋で買った品物ではありません。
+
+
+スライド5
+
+Slide 5 Title
+ご意見をお聞かせ下さい
+
+Slide 5 Description
+UNNAIではお客様とより良い関係を築く事を一番大切にしています。商品のリクエストや
+改善点などお気づきの点がありましたらお問い合わせください。
